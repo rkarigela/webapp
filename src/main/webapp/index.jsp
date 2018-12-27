@@ -12,7 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">AutoDeployment</h1>
       <h2 class="text-center">Now you are with ARK</h2>
-      <h3 class="text-center">auto</h3>
+      <h3 class="text-center">Job is done with help of Arrthi</h3>
   </div>
 </body>
 </html>
